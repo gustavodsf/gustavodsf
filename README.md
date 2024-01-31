@@ -1,5 +1,5 @@
 ### Welcome! 👋
-- Experienced full-stack software engineer with more than ten years of hands-on development in relevant projects (Industry, Energy Transmission, Media Company, Oil company, and Financial Sector). Usually taking part in the whole development process: from the initial research, architecture planning, actual development of applications, and deployment both on cloud services and on-premise. I have worked with multiple web development stacks (i.e., Angular, React, Spring Boot, Python, Express.js, and Nest.js), 
+- Experienced full-stack software engineer with more than ten years of hands-on development in relevant projects (Industry, Energy Transmission, Media Company, Oil company, and Financial Sector).
 
 - 💻 Most recently, I've been focused on building web applications with unique and challenging UI requirements in the Food/Delivery industry. Our tech stack includes Spring boot, Angular, Express.js, and Dialogflow.
 
