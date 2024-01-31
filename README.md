@@ -1,7 +1,7 @@
 ### Welcome! 👋
 - Experienced full-stack software engineer with more than ten years of hands-on development in relevant projects (Industry, Energy Transmission, Media Company, Oil company, and Financial Sector).
 
-- 💻 Most recently, I've been focused on building web applications with unique and challenging UI requirements in the Food/Delivery industry. Our tech stack includes Spring boot, Angular, Express.js, and Dialogflow.
+- 💻 Most recently, I've been focused on building web applications with unique and challenging UI requirements. Our tech stack includes Express.js and Typescript
 
 - 🌍 Embracing the remote work culture, allowing the opportunity to collaborate with talented people from various parts of the world.
 
