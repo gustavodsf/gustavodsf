@@ -1,15 +1,18 @@
 ### Hi, I'm Gustavo! 👋
+*Full-stack software engineer* with 10+ years of experience across Energy, Media, Finance, and Oil & Gas industries.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Full-stack+Engineer+%7C+10%2B+years;TypeScript+%7C+Java+%7C+Node.js;Building+with+LLMs+%26+React;Remote+work+enthusiast)](https://git.io/typing-svg)
+#### 🛠️ Tech Stack
+Languages: TypeScript, Java
+Backend: Node.js, Express.js, Serverless, Microservices
+Frontend: React.js
+Databases: SQL
+AI/ML: Large Language Models (LLMs)
 
-### 📊 GitHub Stats
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavodsf&show_icons=true&theme=radical)
+#### 🚀 What I Do
+Building robust web applications with complex UI requirements and exploring LLM integration. I thrive in remote teams and love continuous learning.
 
-### 💻 Languages
+#### 💻 Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodsf&layout=compact&theme=radical)
-
-### 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=gustavodsf&theme=radical)
 
 ---
 *Building the future, one commit at a time* ⚡
