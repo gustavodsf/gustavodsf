@@ -1,13 +1,15 @@
-### Welcome! 👋
-- Experienced full-stack software engineer with more than ten years of hands-on development in relevant projects (Industry, Energy Transmission, Media Company, Oil company, and Financial Sector).
+### Hi, I'm Gustavo! 👋
 
-- 💻 Most recently, I've been focused on building web applications with unique and challenging UI requirements. Our tech stack includes Express.js and Typescript
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Full-stack+Engineer+%7C+10%2B+years;TypeScript+%7C+Java+%7C+Node.js;Building+with+LLMs+%26+React;Remote+work+enthusiast)](https://git.io/typing-svg)
 
-- 🌍 Embracing the remote work culture, allowing the opportunity to collaborate with talented people from various parts of the world.
+### 📊 GitHub Stats
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
-- 📚 I love to share my knowledge because I believe that's also the best way to learn; I also consider the most essential thing to developers is to continue learning new things. I'm comfortable bouncing around technologies and love to learn new stuff.
+### 💻 Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
-<div style="display: inline_block"><br />
-  <a href="https://www.linkedin.com/in/gustavo-figueiredo-8602966b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+### 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
 
+---
+*Building the future, one commit at a time* ⚡
