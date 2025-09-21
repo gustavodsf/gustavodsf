@@ -1,15 +1,9 @@
 ### Hi, I'm Gustavo! 👋
-*Full-stack software engineer* with 10+ years of experience across Energy, Media, Finance, and Oil & Gas industries.
+I am a seasoned Full-Stack Software Engineer with over a decade of experience delivering impactful solutions across industries including Energy Transmission, Media, Oil & Gas, and Finance. My expertise covers both front-end and back-end engineering, with strong proficiency in Node.js, TypeScript, Java, React.js, and modern architectural practices such as Microservices, Serverless computing, and SQL databases.
 
-#### 🛠️ Tech Stack
-- Languages: TypeScript, Java
-- Backend: Node.js, Express.js, Serverless, Microservices
-- Frontend: React.js
-- Databases: SQL
-- AI/ML: Large Language Models (LLMs)
+Since 2022, I have been working as a contractor for a U.S.-based company, where I collaborated with a Large Language Model (LLM) to build an innovative voice-enabled ordering service. Currently, I am contributing my skills at a cryptocurrency financial company, developing KYC (Know Your Customer) solutions in JavaScript to strengthen security and compliance.
 
-#### 🚀 What I Do
-Building robust web applications with complex UI requirements and exploring LLM integration. I thrive in remote teams and love continuous learning.
+I thrive in distributed, remote teams and bring an agile, results-driven mindset to every project. Passionate about solving complex problems and driving business value, I’m eager to contribute my technical expertise and collaborative spirit to help organizations achieve their goals.
 
 #### 💻 Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodsf&layout=compact&theme=radical)
