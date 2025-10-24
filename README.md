@@ -57,9 +57,9 @@ I'm passionate about leveraging modern technologies to solve complex business ch
 
 ### 🎓 Industry Experience
 ```
-🔋 Energy Transmission  →  Building resilient infrastructure systems
+🔋 Energy Transmission →  Building resilient infrastructure systems
 🎬 Media               →  Creating scalable content delivery platforms
-🛢️ Oil & Gas          →  Developing mission-critical applications
+🛢️ Oil & Gas           →  Developing mission-critical applications
 💰 Finance             →  Engineering secure financial services
 ```
 
