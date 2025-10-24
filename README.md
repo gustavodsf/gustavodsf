@@ -68,6 +68,7 @@ I'm passionate about leveraging modern technologies to solve complex business ch
 ## 📊 GitHub Statistics
 
 <div align="center">
+  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavodsf&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodsf&layout=compact&theme=radical&hide_border=true&langs_count=8)
